@@ -3,7 +3,7 @@
 
 ---
 
-![](https://github.com/codaeddie/SDSU-CS561-NLP/blob/main/assignments/a1/imgs/SDSUuu.png)
+![](https://github.com/codaeddie/SDSU-CS561-NLP/blob/main/assignments/a1/imgs/SDSUu.png)
 ![](https://github.com/codaeddie/SDSU-CS561-NLP/blob/main/assignments/a1/imgs/SDSUflag.png)
 
 This repository is my complete implementation for assignments and projects in CS561: Deep Learning with Natural Language Processing.
