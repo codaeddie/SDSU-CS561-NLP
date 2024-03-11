@@ -7,11 +7,13 @@
 This repository is my complete implementation for assignments and projects in CS561: Deep Learning with Natural Language Processing.
 
 ## Assignments
--   Assignment 1: [code](https://github.com/chriskhanhtran/CS224n-NLP/tree/master/assignments/a1) - Exploring word vectors
--   Assignment 2: [code](https://github.com/chriskhanhtran/CS224n-NLP/tree/master/assignments/a2) | [handout](https://github.com/chriskhanhtran/CS224n-NLP/blob/master/assignments/handouts/a2.pdf) - Training word2vec
--   Assignment 3: [code](https://github.com/chriskhanhtran/CS224n-NLP/tree/master/assignments/a3) | [handout](https://github.com/chriskhanhtran/CS224n-NLP/blob/master/assignments/handouts/a3.pdf) - Neural Dependency Parser
--   Assignment 4: [code](https://github.com/chriskhanhtran/CS224n-NLP/tree/master/assignments/a4) | [handout](https://github.com/chriskhanhtran/CS224n-NLP/blob/master/assignments/handouts/a4.pdf) - Neural Machine Translation
--   Assignment 5: [code](https://github.com/chriskhanhtran/CS224n-NLP/tree/master/assignments/a5) | [handout](https://github.com/chriskhanhtran/CS224n-NLP/blob/master/assignments/handouts/a5.pdf) - Character-based NMT
+-   Assignment 1: [code](https://github.com/codaeddie/SDSU-CS561-NLP/tree/main/assignments/a1) | [handout](https://github.com/codaeddie/SDSU-CS561-NLP/blob/main/assignments/handouts/A1.pdf) Exploring word vectors
+-   Assignment 2: [code](https://github.com/codaeddie/SDSU-CS561-NLP/tree/main/assignments/a2) | [handout](https://github.com/codaeddie/SDSU-CS561-NLP/blob/main/assignments/handouts/A2.pdf) - Training word2vec
+-   Assignment 3: [code](https://github.com/codaeddie/SDSU-CS561-NLP/tree/main/assignments/a3) | [handout](https://github.com/codaeddie/SDSU-CS561-NLP/blob/main/assignments/handouts/A3.pdff) - Neural Dependency Parser
+
+**Note, all instructions for CS561 SDSU are detailed in corresponding handout PDF's.**
+
+These assignments are heavily based on the Stanford CS224u course. 
 
 ## Final Project
 
